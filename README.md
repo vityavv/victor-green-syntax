@@ -1,4 +1,4 @@
-#Victor's Green Syntax Theme
+# Victor's Green Syntax Theme
 
 An amazing syntax theme for the Atom text editor, featuring GREEN as the lead color. I use it with [Seti UI](https://atom.io/themes/seti-ui) but I can't say "Works best with" because I didn't use all of the major UI themes.
 
